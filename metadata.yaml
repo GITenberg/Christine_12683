@@ -1,0 +1,46 @@
+_repo: Christine_12683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Arnim, Elizabeth von
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Cholmondeley, Alice
+    - Beauchamp, Mary Annette
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: "Christine is purportedly a compilation of letters from a \"gifted young\
+  \ English girl studying in Germany just before the outbreak of the war\" (Charms\
+  \ 188) to her mother in Britain. Written by Elizabeth von Arnim and presented under\
+  \ her anonymous pen-name Alice Cholmondeley, the work dated from May 28, 1914 to\
+  \ August 4, 1914, the letters were published in 1917. \"Christine\" explained her\
+  \ experience with German pre-war culture; however, Christine did not exist. She\
+  \ was a fictional character that some claim was Arnim's attempt at anti-German propaganda.\
+  \ These detailed letters helped to convey a picture to British citizens of the supposed\
+  \ state of mind of the German public during the chaotic days leading up to World\
+  \ War I.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12683'
+  wikidata: Q3824441
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'English fiction'
+- GITenberg
+title: Christine
+url: http://www.gutenberg.org/ebooks/12683
+wikipedia:
+- https://en.wikipedia.org/wiki/Christine_(book)
+- https://it.wikipedia.org/wiki/La_storia_di_Christine
