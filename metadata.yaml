@@ -1,5 +1,8 @@
 _repo: Christine_12683
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Von Arnim, Elizabeth
@@ -24,6 +27,8 @@ description: "Christine is purportedly a compilation of letters from a \"gifted 
   \ These detailed letters helped to convey a picture to British citizens of the supposed\
   \ state of mind of the German public during the chaotic days leading up to World\
   \ War I.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12683#Christine
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
